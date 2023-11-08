@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "111289327755",
+    "firebase_url": "https://kickskonnect-2e5e7-default-rtdb.firebaseio.com",
+    "project_id": "kickskonnect-2e5e7",
+    "storage_bucket": "kickskonnect-2e5e7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111289327755:android:ef654cf9896deae350348e",
+        "android_client_info": {
+          "package_name": "com.example.admin.augscan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhsiULTk4C-uUrBfoGh6etDdBWp1L5qsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111289327755:android:8f42573b40b6d4cd50348e",
+        "android_client_info": {
+          "package_name": "com.my.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhsiULTk4C-uUrBfoGh6etDdBWp1L5qsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
